@@ -8,6 +8,5 @@ require_once dirname(__DIR__) . '/config/init.php';
 
 new \Services\App();
 
-//\Services\App::$app->setProperty('test', 'TEST');
-var_dump(\Services\App::$app->getProperties());
-//echo \Services\App::$app->getProperty('pagination');
+//throw new Exception('Возникла ошибочка', 500);
+//echo $rtyName;
