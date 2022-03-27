@@ -1,10 +1,10 @@
 {
-    "autoload":{
-        "psr-4":{
-            "services\\": "services",
-            "app\\": "app"
+    "autoload": {
+        "psr-4": {
+            "Services\\": "services",
+            "App\\": "app"
         }
     },
-    "require":{
+    "require": {
     }
 }
