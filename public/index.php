@@ -5,8 +5,9 @@ if (PHP_MAJOR_VERSION < 8) {
 }
 
 require_once dirname(__DIR__) . '/config/init.php';
+require_once HELPERS . '/functions.php';
+require_once CONFIG . '/routes.php';
 
 new \Services\App();
 
-//throw new Exception('Возникла ошибочка', 500);
-//echo $rtyName;
+//debug(\Services\Router::getRoutes());

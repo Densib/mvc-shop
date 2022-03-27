@@ -41,7 +41,7 @@ class ErrorHandler
     public function exceptionHandler(\Throwable $e)
     {
         $this->logErrors($e->getMessage(), $e->getFile(), $e->getLine());
-        $this->displayErrors('Исклюяение', $e->getMessage(), $e->getFile(), $e->getLine(), $e->getCode());
+        $this->displayErrors('Исключние', $e->getMessage(), $e->getFile(), $e->getLine(), $e->getCode());
     }
 
     protected function logErrors($message = '', $file = '', $line = '')
