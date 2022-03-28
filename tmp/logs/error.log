@@ -1,0 +1,64 @@
+[2022-03-28 00:12:22] Текст ошибки: Typed property Services\Controller::$model must not be accessed before initialization | Файл: C:\OpenServer\domains\mvc-shop\app\controllers\MainController.php | Строка: 11 
+[2022-03-28 00:13:15] Текст ошибки: Typed property Services\Controller::$model must not be accessed before initialization | Файл: C:\OpenServer\domains\mvc-shop\app\controllers\MainController.php | Строка: 11 
+[2022-03-28 00:15:32] Текст ошибки: НЕ удалось загрузить модель App\Model\Main | Файл: C:\OpenServer\domains\mvc-shop\services\Controller.php | Строка: 23 
+[2022-03-28 00:19:44] Текст ошибки: НЕ удалось загрузить модель App\Model\Main | Файл: C:\OpenServer\domains\mvc-shop\services\Controller.php | Строка: 23 
+[2022-03-28 00:20:30] Текст ошибки: НЕ удалось загрузить модель App\Model\Main | Файл: C:\OpenServer\domains\mvc-shop\services\Controller.php | Строка: 23 
+[2022-03-28 00:21:44] Текст ошибки: НЕ удалось загрузить модель App\Model\Main | Файл: C:\OpenServer\domains\mvc-shop\services\Controller.php | Строка: 23 
+[2022-03-28 00:22:36] Текст ошибки: НЕ удалось загрузить модель App\Model\Main | Файл: C:\OpenServer\domains\mvc-shop\services\Controller.php | Строка: 23 
+[2022-03-28 00:23:06] Текст ошибки: НЕ удалось загрузить модель App\Model\Main | Файл: C:\OpenServer\domains\mvc-shop\services\Controller.php | Строка: 23 
+[2022-03-28 00:24:00] Текст ошибки: НЕ удалось загрузить модель App\Model\Main | Файл: C:\OpenServer\domains\mvc-shop\services\Controller.php | Строка: 23 
+[2022-03-28 00:24:01] Текст ошибки: НЕ удалось загрузить модель App\Model\Main | Файл: C:\OpenServer\domains\mvc-shop\services\Controller.php | Строка: 23 
+[2022-03-28 00:24:01] Текст ошибки: НЕ удалось загрузить модель App\Model\Main | Файл: C:\OpenServer\domains\mvc-shop\services\Controller.php | Строка: 23 
+[2022-03-28 00:24:01] Текст ошибки: НЕ удалось загрузить модель App\Model\Main | Файл: C:\OpenServer\domains\mvc-shop\services\Controller.php | Строка: 23 
+[2022-03-28 00:24:01] Текст ошибки: НЕ удалось загрузить модель App\Model\Main | Файл: C:\OpenServer\domains\mvc-shop\services\Controller.php | Строка: 23 
+[2022-03-28 00:24:02] Текст ошибки: НЕ удалось загрузить модель App\Model\Main | Файл: C:\OpenServer\domains\mvc-shop\services\Controller.php | Строка: 23 
+[2022-03-28 00:39:14] Текст ошибки: Undefined array key "controler" | Файл: C:\OpenServer\domains\mvc-shop\services\View.php | Строка: 26 
+[2022-03-28 00:39:14] Текст ошибки: Не найден вид C:\OpenServer\domains\mvc-shop/app/view//.php | Файл: C:\OpenServer\domains\mvc-shop\services\View.php | Строка: 31 
+[2022-03-28 00:39:54] Текст ошибки: Не найден вид C:\OpenServer\domains\mvc-shop/app/view/Main/.php | Файл: C:\OpenServer\domains\mvc-shop\services\View.php | Строка: 31 
+[2022-03-28 00:42:03] Текст ошибки: Не найден вид C:\OpenServer\domains\mvc-shop/app/view/Main/.php | Файл: C:\OpenServer\domains\mvc-shop\services\View.php | Строка: 31 
+[2022-03-28 00:44:34] Текст ошибки: Не найден вид C:\OpenServer\domains\mvc-shop/app/view/Main/index.php | Файл: C:\OpenServer\domains\mvc-shop\services\View.php | Строка: 31 
+[2022-03-28 00:46:56] Текст ошибки: Не найден вид C:\OpenServer\domains\mvc-shop/app/view/Main/.php | Файл: C:\OpenServer\domains\mvc-shop\services\View.php | Строка: 31 
+[2022-03-28 00:47:10] Текст ошибки: Не найден вид C:\OpenServer\domains\mvc-shop/app/view/Main/index.php | Файл: C:\OpenServer\domains\mvc-shop\services\View.php | Строка: 31 
+[2022-03-28 21:50:59] Текст ошибки: Не найден вид C:\OpenServer\domains\mvc-shop/app/view/Main/index.php | Файл: C:\OpenServer\domains\mvc-shop\services\View.php | Строка: 31 
+[2022-03-28 22:21:38] Текст ошибки: Не найден вид C:\OpenServer\domains\mvc-shop/app/view/Main/index.php | Файл: C:\OpenServer\domains\mvc-shop\services\View.php | Строка: 31 
+[2022-03-28 22:23:11] Текст ошибки: Не найден вид C:\OpenServer\domains\mvc-shop/app/view/Main/index.php | Файл: C:\OpenServer\domains\mvc-shop\services\View.php | Строка: 31 
+[2022-03-28 22:30:09] Текст ошибки: Не найден вид C:\OpenServer\domains\mvc-shop/app/view/Main/index.php | Файл: C:\OpenServer\domains\mvc-shop\services\View.php | Строка: 31 
+[2022-03-28 22:51:18] Текст ошибки: Не найден вид C:\OpenServer\domains\mvc-shop/app/view/Main/index.php | Файл: C:\OpenServer\domains\mvc-shop\services\View.php | Строка: 31 
+[2022-03-28 22:51:26] Текст ошибки: НЕ удалось загрузить модель App\Models\admin\Main | Файл: C:\OpenServer\domains\mvc-shop\services\Controller.php | Строка: 23 
+[2022-03-28 22:54:30] Текст ошибки: НЕ удалось загрузить модель App\Models\admin\Main | Файл: C:\OpenServer\domains\mvc-shop\services\Controller.php | Строка: 23 
+[2022-03-28 22:54:31] Текст ошибки: НЕ удалось загрузить модель App\Models\admin\Main | Файл: C:\OpenServer\domains\mvc-shop\services\Controller.php | Строка: 23 
+[2022-03-28 22:54:32] Текст ошибки: НЕ удалось загрузить модель App\Models\admin\Main | Файл: C:\OpenServer\domains\mvc-shop\services\Controller.php | Строка: 23 
+[2022-03-28 22:54:32] Текст ошибки: НЕ удалось загрузить модель App\Models\admin\Main | Файл: C:\OpenServer\domains\mvc-shop\services\Controller.php | Строка: 23 
+[2022-03-28 22:54:33] Текст ошибки: НЕ удалось загрузить модель App\Models\admin\Main | Файл: C:\OpenServer\domains\mvc-shop\services\Controller.php | Строка: 23 
+[2022-03-28 22:54:35] Текст ошибки: НЕ удалось загрузить модель App\Models\admin\Main | Файл: C:\OpenServer\domains\mvc-shop\services\Controller.php | Строка: 23 
+[2022-03-28 22:54:35] Текст ошибки: НЕ удалось загрузить модель App\Models\admin\Main | Файл: C:\OpenServer\domains\mvc-shop\services\Controller.php | Строка: 23 
+[2022-03-28 22:54:36] Текст ошибки: НЕ удалось загрузить модель App\Models\admin\Main | Файл: C:\OpenServer\domains\mvc-shop\services\Controller.php | Строка: 23 
+[2022-03-28 22:54:37] Текст ошибки: НЕ удалось загрузить модель App\Models\admin\Main | Файл: C:\OpenServer\domains\mvc-shop\services\Controller.php | Строка: 23 
+[2022-03-28 22:54:38] Текст ошибки: НЕ удалось загрузить модель App\Models\admin\Main | Файл: C:\OpenServer\domains\mvc-shop\services\Controller.php | Строка: 23 
+[2022-03-28 22:54:41] Текст ошибки: НЕ удалось загрузить модель App\Models\admin\Main | Файл: C:\OpenServer\domains\mvc-shop\services\Controller.php | Строка: 23 
+[2022-03-28 22:54:41] Текст ошибки: НЕ удалось загрузить модель App\Models\admin\Main | Файл: C:\OpenServer\domains\mvc-shop\services\Controller.php | Строка: 23 
+[2022-03-28 22:54:42] Текст ошибки: НЕ удалось загрузить модель App\Models\admin\Main | Файл: C:\OpenServer\domains\mvc-shop\services\Controller.php | Строка: 23 
+[2022-03-28 22:55:06] Текст ошибки: НЕ удалось загрузить модель App\Models\admin\Main | Файл: C:\OpenServer\domains\mvc-shop\services\Controller.php | Строка: 23 
+[2022-03-28 22:55:07] Текст ошибки: НЕ удалось загрузить модель App\Models\admin\Main | Файл: C:\OpenServer\domains\mvc-shop\services\Controller.php | Строка: 23 
+[2022-03-28 22:55:07] Текст ошибки: НЕ удалось загрузить модель App\Models\admin\Main | Файл: C:\OpenServer\domains\mvc-shop\services\Controller.php | Строка: 23 
+[2022-03-28 22:55:07] Текст ошибки: НЕ удалось загрузить модель App\Models\admin\Main | Файл: C:\OpenServer\domains\mvc-shop\services\Controller.php | Строка: 23 
+[2022-03-28 22:55:08] Текст ошибки: НЕ удалось загрузить модель App\Models\admin\Main | Файл: C:\OpenServer\domains\mvc-shop\services\Controller.php | Строка: 23 
+[2022-03-28 22:55:17] Текст ошибки: Не найден вид C:\OpenServer\domains\mvc-shop/app/view/admin/Main/index.php | Файл: C:\OpenServer\domains\mvc-shop\services\View.php | Строка: 31 
+[2022-03-28 22:57:43] Текст ошибки: Не найден вид C:\OpenServer\domains\mvc-shop/app/views/admin/Main/index.php | Файл: C:\OpenServer\domains\mvc-shop\services\View.php | Строка: 31 
+[2022-03-28 23:18:39] Текст ошибки: require_once(C:\OpenServer\domains\mvc-shop/app/views/layouts/.php): Failed to open stream: No such file or directory | Файл: C:\OpenServer\domains\mvc-shop\services\View.php | Строка: 40 
+[2022-03-28 23:18:39] Текст ошибки: Failed opening required 'C:\OpenServer\domains\mvc-shop/app/views/layouts/.php' (include_path='.') | Файл: C:\OpenServer\domains\mvc-shop\services\View.php | Строка: 40 
+[2022-03-28 23:18:51] Текст ошибки: require_once(C:\OpenServer\domains\mvc-shop/app/views/layouts/.php): Failed to open stream: No such file or directory | Файл: C:\OpenServer\domains\mvc-shop\services\View.php | Строка: 39 
+[2022-03-28 23:18:51] Текст ошибки: Failed opening required 'C:\OpenServer\domains\mvc-shop/app/views/layouts/.php' (include_path='.') | Файл: C:\OpenServer\domains\mvc-shop\services\View.php | Строка: 39 
+[2022-03-28 23:20:05] Текст ошибки: require_once(C:\OpenServer\domains\mvc-shop/app/views/layouts/.php): Failed to open stream: No such file or directory | Файл: C:\OpenServer\domains\mvc-shop\services\View.php | Строка: 39 
+[2022-03-28 23:20:05] Текст ошибки: Failed opening required 'C:\OpenServer\domains\mvc-shop/app/views/layouts/.php' (include_path='.') | Файл: C:\OpenServer\domains\mvc-shop\services\View.php | Строка: 39 
+[2022-03-28 23:21:07] Текст ошибки: Не найден шаблон C:\OpenServer\domains\mvc-shop/app/views/Main/index.php | Файл: C:\OpenServer\domains\mvc-shop\services\View.php | Строка: 41 
+[2022-03-28 23:21:21] Текст ошибки: Не найден шаблон C:\OpenServer\domains\mvc-shop/app/views/layouts/.php | Файл: C:\OpenServer\domains\mvc-shop\services\View.php | Строка: 41 
+[2022-03-28 23:21:54] Текст ошибки: Не найден шаблон C:\OpenServer\domains\mvc-shop/app/views/layouts/eshop.php | Файл: C:\OpenServer\domains\mvc-shop\services\View.php | Строка: 41 
+[2022-03-28 23:23:55] Текст ошибки: Не найден шаблон C:\OpenServer\domains\mvc-shop/app/views/layouts/test.php | Файл: C:\OpenServer\domains\mvc-shop\services\View.php | Строка: 41 
+[2022-03-28 23:31:27] Текст ошибки: Не найден шаблон C:\OpenServer\domains\mvc-shop/app/views/layouts/test.php | Файл: C:\OpenServer\domains\mvc-shop\services\View.php | Строка: 41 
+[2022-03-29 00:18:40] Текст ошибки: Undefined variable $test | Файл: C:\OpenServer\domains\mvc-shop\app\views\Main\index.php | Строка: 3 
+[2022-03-29 00:18:40] Текст ошибки: Undefined variable $name | Файл: C:\OpenServer\domains\mvc-shop\app\views\Main\index.php | Строка: 4 
+[2022-03-29 00:27:48] Текст ошибки: Undefined variable $test | Файл: C:\OpenServer\domains\mvc-shop\app\views\Main\index.php | Строка: 3 
+[2022-03-29 00:27:48] Текст ошибки: Undefined variable $name | Файл: C:\OpenServer\domains\mvc-shop\app\views\Main\index.php | Строка: 4 
+[2022-03-29 00:28:05] Текст ошибки: Undefined variable $test | Файл: C:\OpenServer\domains\mvc-shop\app\views\Main\index.php | Строка: 3 
+[2022-03-29 00:28:05] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\mvc-shop\app\views\Main\index.php | Строка: 4 

@@ -16,15 +16,19 @@ abstract class Controller
 
     public function getModel()
     {
-        $model = 'App\Model\\' . $this->route['admin_prefix'] . $this->route['controller'];
+        $model = 'App\Models\\' . $this->route['admin_prefix'] . $this->route['controller'];
         if (class_exists($model)) {
             $this->model = new $model();
+        } else {
+            throw new \Exception("НЕ удалось загрузить модель {$model}", 500);
         }
     }
 
     public function getView()
     {
-        $this->view = $this->view ?? $this->route['action'];
+        $this->view = $this->view ?: $this->route['action'];
+        (new View($this->route, $this->layout, $this->view, $this->meta))->render($this->data);
+
     }
 
     public function set($data)

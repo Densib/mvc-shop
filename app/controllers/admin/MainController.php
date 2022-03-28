@@ -2,10 +2,12 @@
 
 namespace App\Controllers\Admin;
 
-class MainController
+use Services\Controller;
+
+class MainController extends Controller
 {
     public function indexAction()
     {
-        echo __METHOD__;
+        //echo __METHOD__;
     }
 }

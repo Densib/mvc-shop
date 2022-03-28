@@ -8,7 +8,9 @@ class MainController extends Controller
 {
     public function indexAction()
     {
-        var_dump($this->model);
-        echo __METHOD__;
+        $names = ['Денис', 'Марина', 'Андрей'];
+        $this->setMeta('Главная страница', 'Description...', 'кeywords...');
+        //$this->set(['test' => 'TEST_VAR', 'name' => 'Jone']);
+        $this->set(compact('names'));
     }
 }
