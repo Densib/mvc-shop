@@ -69,3 +69,6 @@
 [2022-04-02 19:50:26] Текст ошибки: Class "App\Controllers\R" not found | Файл: C:\OpenServer\domains\mvc-shop\app\controllers\MainController.php | Строка: 13 
 [2022-04-02 20:32:46] Текст ошибки: Call to undefined method Services\View::getDbLogs() | Файл: C:\OpenServer\domains\mvc-shop\app\views\layouts\eshop.php | Строка: 17 
 [2022-04-02 20:35:47] Текст ошибки: Class "App\Controllers\R" not found | Файл: C:\OpenServer\domains\mvc-shop\app\controllers\MainController.php | Строка: 14 
+[2022-04-03 16:31:03] Текст ошибки: Call to undefined method Services\View::getPurts() | Файл: C:\OpenServer\domains\mvc-shop\app\views\layouts\eshop.php | Строка: 6 
+[2022-04-03 16:31:11] Текст ошибки: Call to undefined method Services\View::getParts() | Файл: C:\OpenServer\domains\mvc-shop\app\views\layouts\eshop.php | Строка: 6 
+[2022-04-03 17:14:27] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\mvc-shop\services\Router.php | Строка: 57 
