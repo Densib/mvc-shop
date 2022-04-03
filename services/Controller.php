@@ -2,10 +2,12 @@
 
 namespace Services;
 
+use RedUNIT\Base\Keywords;
+
 abstract class Controller
 {
     public array $data = [];
-    public array $meta = [];
+    public array $meta = ['title' => '', 'description' => '', 'keywords' => ''];
     public string $layout = '';
     public string $view = '';
     public object $model;

@@ -72,3 +72,9 @@
 [2022-04-03 16:31:03] Текст ошибки: Call to undefined method Services\View::getPurts() | Файл: C:\OpenServer\domains\mvc-shop\app\views\layouts\eshop.php | Строка: 6 
 [2022-04-03 16:31:11] Текст ошибки: Call to undefined method Services\View::getParts() | Файл: C:\OpenServer\domains\mvc-shop\app\views\layouts\eshop.php | Строка: 6 
 [2022-04-03 17:14:27] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\mvc-shop\services\Router.php | Строка: 57 
+[2022-04-03 19:14:44] Текст ошибки: Undefined array key "title" | Файл: C:\OpenServer\domains\mvc-shop\services\View.php | Строка: 49 
+[2022-04-03 19:14:44] Текст ошибки: Undefined array key "description" | Файл: C:\OpenServer\domains\mvc-shop\services\View.php | Строка: 50 
+[2022-04-03 19:14:44] Текст ошибки: Undefined array key "keywords" | Файл: C:\OpenServer\domains\mvc-shop\services\View.php | Строка: 51 
+[2022-04-03 19:38:16] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\mvc-shop\services\Router.php | Строка: 57 
+[2022-04-03 19:40:28] Текст ошибки: Undefined array key 0 | Файл: C:\OpenServer\domains\mvc-shop\app\views\Main\index.php | Строка: 12 
+[2022-04-03 19:40:28] Текст ошибки: Attempt to read property "img" on null | Файл: C:\OpenServer\domains\mvc-shop\app\views\Main\index.php | Строка: 12 

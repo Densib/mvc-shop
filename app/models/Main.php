@@ -2,14 +2,10 @@
 
 namespace App\Models;
 
-use Services\Model;
-use RedBeanPHP\R;
 
-class Main extends Model
+class Main extends AppModel
 {
 
-    public function getNames(): array
-    {
-        return R::findAll('name');
-    }
+    
+
 }
