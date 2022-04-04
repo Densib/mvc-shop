@@ -78,3 +78,4 @@
 [2022-04-03 19:38:16] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\mvc-shop\services\Router.php | Строка: 57 
 [2022-04-03 19:40:28] Текст ошибки: Undefined array key 0 | Файл: C:\OpenServer\domains\mvc-shop\app\views\Main\index.php | Строка: 12 
 [2022-04-03 19:40:28] Текст ошибки: Attempt to read property "img" on null | Файл: C:\OpenServer\domains\mvc-shop\app\views\Main\index.php | Строка: 12 
+[2022-04-04 23:04:57] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1051 Unknown table 'pd' | Файл: C:\OpenServer\domains\mvc-shop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206 
