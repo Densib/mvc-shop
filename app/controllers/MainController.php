@@ -17,6 +17,6 @@ class MainController extends AppController
 
         $this->set(compact('slides', 'products'));
 
-        $this-> setMeta('Главная старница', 'Описание', 'Ключевые слова');
+        $this-> setMeta(___('main_index_meta_title'), ___('main_index_meta_description'), ___('main_index_meta_keywords'));
     }
 }

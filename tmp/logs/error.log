@@ -1,0 +1,5 @@
+[2022-04-06 23:15:16] Текст ошибки: Undefined array key "contoller" | Файл: C:\OpenServer\domains\mvc-shop\services\Language.php | Строка: 14 
+[2022-04-06 23:15:16] Текст ошибки: Cannot assign bool to property Services\Language::$langLayout of type array | Файл: C:\OpenServer\domains\mvc-shop\services\Language.php | Строка: 19 
+[2022-04-06 23:16:14] Текст ошибки: Cannot assign bool to property Services\Language::$langLayout of type array | Файл: C:\OpenServer\domains\mvc-shop\services\Language.php | Строка: 19 
+[2022-04-06 23:17:02] Текст ошибки: Cannot assign int to property Services\Language::$langView of type array | Файл: C:\OpenServer\domains\mvc-shop\services\Language.php | Строка: 19 
+[2022-04-06 23:18:55] Текст ошибки: array_merge(): Argument #2 must be of type array, string given | Файл: C:\OpenServer\domains\mvc-shop\services\Language.php | Строка: 22 

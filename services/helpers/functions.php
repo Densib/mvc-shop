@@ -24,3 +24,12 @@ function baseUrl()
     return PATH . '/' . (Services\App::$app->getProperty('lang') ? Services\App::$app->getProperty('lang') . '/' : '');
 }
     
+function __($key)
+{
+    echo \Services\Language::get($key);
+}
+
+function ___($key)
+{
+    return \Services\Language::get($key);
+}
