@@ -1,12 +1,13 @@
 <?php
 
+use App\widgets\Language;
 use Services\View;
 
 ?>
 <!doctype html>
 	<html lang="ru">
 	<head>
-		<base href="/">
+		<base href="<?= baseURL(); ?>">
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<link rel="stylesheet" href="<?= PATH ?>/assets/bootstrap/css/bootstrap.min.css">
@@ -55,18 +56,7 @@ use Services\View;
 								</ul>
 							</div>
 
-							<div class="dropdown d-inline-block">
-								<a href="#" class="dropdown-toggle" data-bs-toggle="dropdown">
-									<img src="<?= PATH ?>/assets/img/ru.png" alt="">
-								</a>
-								<ul class="dropdown-menu" id="languages">
-									<li>
-										<button class="dropdown-item" data-langcode="en">
-											<img src="<?= PATH ?>/assets/img/en.png" alt="">
-										English</button>
-									</li>
-								</ul>
-							</div>
+							<?php new App\widgets\Language(); ?>
 
 						</div>
 					</div>
@@ -78,7 +68,7 @@ use Services\View;
 
 					<nav class="navbar navbar-expand-lg navbar-light">
 						<div class="container-fluid p-0">
-							<a class="navbar-brand" href="index.html">Shop Brand</a>
+							<a class="navbar-brand" href="<?= baseUrl()	?>"><?= Services\App::$app->getProperty('site_name') ?></a>
 							<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 								<span class="navbar-toggler-icon"></span>
 							</button>

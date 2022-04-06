@@ -2,7 +2,6 @@
 
 namespace Services;
 
-use RedUNIT\Base\Keywords;
 
 abstract class Controller
 {
@@ -21,8 +20,6 @@ abstract class Controller
         $model = 'App\Models\\' . $this->route['admin_prefix'] . $this->route['controller'];
         if (class_exists($model)) {
             $this->model = new $model();
-        } else {
-            throw new \Exception("НЕ удалось загрузить модель {$model}", 500);
         }
     }
 
