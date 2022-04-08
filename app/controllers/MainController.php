@@ -4,6 +4,7 @@ namespace App\Controllers;
 
 use RedBeanPHP\R;
 use Services\App;
+use Services\Cache;
 
 class MainController extends AppController
 {
@@ -16,7 +17,7 @@ class MainController extends AppController
         $products = $this->model->getHits($lang , 6);
 
         $this->set(compact('slides', 'products'));
-
         $this-> setMeta(___('main_index_meta_title'), ___('main_index_meta_description'), ___('main_index_meta_keywords'));
+
     }
 }

@@ -3,3 +3,10 @@
 [2022-04-06 23:16:14] Текст ошибки: Cannot assign bool to property Services\Language::$langLayout of type array | Файл: C:\OpenServer\domains\mvc-shop\services\Language.php | Строка: 19 
 [2022-04-06 23:17:02] Текст ошибки: Cannot assign int to property Services\Language::$langView of type array | Файл: C:\OpenServer\domains\mvc-shop\services\Language.php | Строка: 19 
 [2022-04-06 23:18:55] Текст ошибки: array_merge(): Argument #2 must be of type array, string given | Файл: C:\OpenServer\domains\mvc-shop\services\Language.php | Строка: 22 
+[2022-04-07 21:49:51] Текст ошибки: file_put_contents(C:\OpenServer\domains\mvc-shop/tmp/cache/098f6bcd4621d373cade4e832627b4f6.txt): Failed to open stream: No such file or directory | Файл: C:\OpenServer\domains\mvc-shop\services\Cache.php | Строка: 13 
+[2022-04-08 11:11:30] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\mvc-shop\services\Router.php | Строка: 60 
+[2022-04-08 11:16:45] Текст ошибки: Call to undefined function App\widgets\Menu() | Файл: C:\OpenServer\domains\mvc-shop\app\views\parts\header.php | Строка: 76 
+[2022-04-08 11:18:22] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'mvc-shop.categoory_description' doesn't exist | Файл: C:\OpenServer\domains\mvc-shop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206 
+[2022-04-08 11:24:57] Текст ошибки: Typed property App\widgets\Menu::$tree must not be accessed before initialization | Файл: C:\OpenServer\domains\mvc-shop\app\widgets\Menu.php | Строка: 52 
+[2022-04-08 11:33:30] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\mvc-shop\services\Router.php | Строка: 60 
+[2022-04-08 11:35:24] Текст ошибки: syntax error, unexpected token "<" | Файл: C:\OpenServer\domains\mvc-shop\app\widgets\menu_tpl.php | Строка: 2 
